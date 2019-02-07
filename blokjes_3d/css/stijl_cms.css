@@ -1,0 +1,16 @@
+html, body
+{
+	font-family: 'Ubuntu';
+}
+
+.navbar
+{
+	z-index: 122 !important;
+	width: 557px;
+}
+
+#addInput
+{
+	text-align: center;
+	float: left;
+}
